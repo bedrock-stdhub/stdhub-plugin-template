@@ -13,3 +13,5 @@ For detailed usage, please refer to [the official website](https://bedrock-stdhu
 > and answer some questions.
 > 
 > After initializing, run `npm install` (or other package managers, `yarn` recommended) and start coding.
+
+In addition, there is also a [demo repository](https://github.com/bedrock-stdhub/stdhub-plugin-demo) that shows usages of these APIs.
