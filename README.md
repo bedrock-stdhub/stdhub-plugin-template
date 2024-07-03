@@ -1,3 +1,7 @@
+# Deprecated. Go to the [new repository](https://github.com/bedrock-stdhub-plugins/plugin-template)
+
+---
+
 # stdhub-plugin-template
 
 A `bedrock-stdhub` plugin starter project.
